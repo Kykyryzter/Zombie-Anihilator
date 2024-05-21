@@ -1,0 +1,5 @@
+C:/Users/Михаил/source/repos/Zombie-Annihilator/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Михаил/source/repos/Zombie-Annihilator/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Михаил/source/repos/Zombie-Annihilator/out/build/x64-Debug/oglApplication/CMakeFiles/oglApplication.dir
+C:/Users/Михаил/source/repos/Zombie-Annihilator/out/build/x64-Debug/oglApplication/CMakeFiles/edit_cache.dir
+C:/Users/Михаил/source/repos/Zombie-Annihilator/out/build/x64-Debug/oglApplication/CMakeFiles/rebuild_cache.dir

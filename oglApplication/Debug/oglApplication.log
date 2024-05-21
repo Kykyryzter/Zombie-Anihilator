@@ -1,0 +1,27 @@
+﻿  main.cpp
+  GLM: perspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+LINK : warning LNK4044: нераспознанный параметр "/lwinmm"; игнорируется
+Content.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/INCREMENTAL:NO"
+main.obj : warning LNK4006: "struct GLFWwindow * window" (?window@@3PAUGLFWwindow@@A) уже определен в Game.obj; второе определение пропущено
+main.obj : warning LNK4006: "int windowx" (?windowx@@3HA) уже определен в Game.obj; второе определение пропущено
+main.obj : warning LNK4006: "int windowy" (?windowy@@3HA) уже определен в Game.obj; второе определение пропущено
+main.obj : warning LNK4006: "int kills" (?kills@@3HA) уже определен в Game.obj; второе определение пропущено
+Zombie.obj : warning LNK4006: "public: __thiscall Effect::Effect(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (??0Effect@@QAE@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) уже определен в Effect.obj; второе определение пропущено
+Zombie.obj : warning LNK4006: "public: __thiscall Effect::~Effect(void)" (??1Effect@@QAE@XZ) уже определен в Effect.obj; второе определение пропущено
+Zombie.obj : warning LNK4006: "public: class EffectParameter * __thiscall Effect::operator[](char *)" (??AEffect@@QAEPAVEffectParameter@@PAD@Z) уже определен в Effect.obj; второе определение пропущено
+Zombie.obj : warning LNK4006: "public: void __thiscall Effect::Apply(void)" (?Apply@Effect@@QAEXXZ) уже определен в Effect.obj; второе определение пропущено
+Zombie.obj : warning LNK4006: "public: void __thiscall Effect::CreateShader(void)" (?CreateShader@Effect@@QAEXXZ) уже определен в Effect.obj; второе определение пропущено
+Zombie.obj : warning LNK4006: "public: void __thiscall Effect::CreateShaderInfo(void)" (?CreateShaderInfo@Effect@@QAEXXZ) уже определен в Effect.obj; второе определение пропущено
+Zombie.obj : warning LNK4006: "public: class EffectParameter * __thiscall Effect::GetParameter(char *)" (?GetParameter@Effect@@QAEPAVEffectParameter@@PAD@Z) уже определен в Effect.obj; второе определение пропущено
+Zombie.obj : warning LNK4006: "float * __cdecl MatrixToFloat(class aiMatrix4x4t<float>)" (?MatrixToFloat@@YAPAMV?$aiMatrix4x4t@M@@@Z) уже определен в Effect.obj; второе определение пропущено
+Zombie.obj : warning LNK4006: "public: void __thiscall EffectParameter::SetValue(class RenderTarget2D)" (?SetValue@EffectParameter@@QAEXVRenderTarget2D@@@Z) уже определен в Effect.obj; второе определение пропущено
+Zombie.obj : warning LNK4006: "public: void __thiscall EffectParameter::SetValue(class Texture2D)" (?SetValue@EffectParameter@@QAEXVTexture2D@@@Z) уже определен в Effect.obj; второе определение пропущено
+Zombie.obj : warning LNK4006: "public: void __thiscall Effect::glPrintError(unsigned int)" (?glPrintError@Effect@@QAEXI@Z) уже определен в Effect.obj; второе определение пропущено
+Zombie.obj : warning LNK4006: "private: char * __thiscall Effect::textFileRead(char *)" (?textFileRead@Effect@@AAEPADPAD@Z) уже определен в Effect.obj; второе определение пропущено
+Zombie.obj : warning LNK4006: "struct GLFWwindow * window" (?window@@3PAUGLFWwindow@@A) уже определен в Game.obj; второе определение пропущено
+Zombie.obj : warning LNK4006: "int windowx" (?windowx@@3HA) уже определен в Game.obj; второе определение пропущено
+Zombie.obj : warning LNK4006: "int windowy" (?windowy@@3HA) уже определен в Game.obj; второе определение пропущено
+Zombie.obj : warning LNK4006: "int kills" (?kills@@3HA) уже определен в Game.obj; второе определение пропущено
+Zombie.obj : warning LNK4006: "public: static class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > Effect::ShadersDirectory" (?ShadersDirectory@Effect@@2V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) уже определен в Effect.obj; второе определение пропущено
+..\bin\glgame4.exe : warning LNK4088: образ создается из-за параметра /FORCE; образ нельзя запустить
+  oglApplication.vcxproj -> C:\Users\Михаил\source\repos\Zombie-Annihilator\bin\glgame4.exe
